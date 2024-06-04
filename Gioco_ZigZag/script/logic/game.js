@@ -1,6 +1,6 @@
 //importazioni
 import conf from "../config.js";
-import Player from "../models/Player.js";
+import Player from "../models/player.js";
 import Spina from "../models/spina.js";
 
 class Game {
